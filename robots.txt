@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://dangsan-club-note.go-hapjeong-club.xyz/sitemap.xml
+Sitemap: https://dangsan-club-note.go-hapjeong-club.xyz/sitemap-pages.xml
